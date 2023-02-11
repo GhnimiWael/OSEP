@@ -1,12 +1,8 @@
 # PEN-300: Evasion Techniques and Breaching Defenses
 
-                                                ░█████╗░░██████╗███████╗██████╗░
-                                                ██╔══██╗██╔════╝██╔════╝██╔══██╗
-                                                ██║░░██║╚█████╗░█████╗░░██████╔╝
-                                                ██║░░██║░╚═══██╗██╔══╝░░██╔═══╝░
-                                                ╚█████╔╝██████╔╝███████╗██║░░░░░
-                                                ░╚════╝░╚═════╝░╚══════╝╚═╝░░░░░
-
+<p align="center" width="100%">
+    <img width="100%"src="https://www.offensive-security.com/wp-content/uploads/2020/10/ETBD-PEN-301-1200x628-no-text-with-box.png"> 
+</p>
 
 
 Evasion Techniques and Breaching Defenses (PEN-300) is an advanced penetration testing course. Students who complete the course and pass the exam will earn the Offensive Security Experienced Pentester (OSEP) certification. This course builds on the knowledge and techniques taught in Penetration Testing with Kali Linux, teaching students to perform advanced penetration tests against mature organizations with an established security function and focuses on bypassing security mechanisms that are designed to block attacks.
