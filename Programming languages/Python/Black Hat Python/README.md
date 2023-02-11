@@ -1,7 +1,7 @@
 # Black Hat Python Book
 
 <p align="center" width="100%">
-    <img width="100%"src="https://brightsec.com/wp-content/uploads/2022/03/blog-What-is-Network-Penetration-Testing_.png"> 
+    <img width="30%"src="https://m.media-amazon.com/images/I/91yDOwYAnWS.jpg"> 
 </p>
 
 Black Hat Python is a book written by Justin Seitz and published by No Starch Press. The book is aimed at intermediate to advanced level programmers and focuses on the use of Python for ethical hacking and penetration testing. The book covers a variety of topics including network security, exploitation, obfuscation, and post-exploitation tactics.
